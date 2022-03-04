@@ -67,3 +67,5 @@ test-journal
 .component-names.json
 .local-names.json
 .gradle
+gradle
+build
